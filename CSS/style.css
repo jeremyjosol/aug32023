@@ -1,0 +1,89 @@
+@media only screen and (min-device-width: 400px) {
+    
+}
+
+.container_1 {
+    float:left;
+    background-color: rgb(230, 230, 230);
+    height: 1500px;
+    opacity: 60%;
+}
+
+.container_2 {
+    float:left;
+    background-color: rgb(236, 236, 236);
+    width: 63.4%;
+    margin-left:25px;
+    height: 200px;
+}
+
+.two_left {
+    text-align: left;
+}
+
+.two_left p {
+    width: 300px;
+}
+
+.green {
+    float: left;
+    background-color: rgb(173, 255, 224);
+    width: 900px;
+    margin: auto;
+    margin-left: 25px;
+    padding-bottom: 500px;
+    padding-right: 150px;
+    border: 100px;
+    display: block;
+    box-sizing: border-box;
+    opacity: 75%;
+
+}
+    
+.green h2 {
+    background-color: rgb(166, 243, 186);
+}
+
+.blue {
+    float: right;
+    background-color: rgb(195, 215, 255);
+    width: 650px;
+    margin: auto;
+    margin-right: 752px;
+    padding-bottom: 464px;
+    border: 100px;
+    display: block;
+    box-sizing: border-box;
+}
+
+.blue h2 {
+    background-color: rgb(158, 189, 243);
+}
+
+.pink {
+background-color: rgb(255, 233, 249);
+display: block;
+box-sizing: border-box;
+width: 1591px;
+float: left;
+margin: auto;
+margin-left: 25px;
+}
+
+.pink h2 {
+    background-color: rgb(246, 173, 185);
+}
+
+.purple {
+    background-color:rgb(240, 214, 255);
+    display: block;
+    box-sizing: border-box;
+    width: 1591px;
+    float: left;
+    margin: auto;
+    margin-left: 25px;
+}
+
+.purple h2 {
+    background-color: rgb(229, 200, 255);
+}
