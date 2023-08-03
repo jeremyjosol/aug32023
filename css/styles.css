@@ -1,27 +1,43 @@
 body {
+    text-align: center;
+}
+
+.container {
+    background-color: red;
+    width: 900px;
+    margin-left: 250px;
+    text-align: center;
+      
     
+}
+
+ul {
+    list-style-type: none;
 }
 
 .goat {
     float: left;
-    background-color: red;
+    background-color: rgb(255, 212, 250);
     width: 300px;
     height: 750px;
     margin: 75px;
+    
+ 
 
 }
 
 .sheep {
     float: left;
-    background-color: blue;
+    background-color: rgb(240, 156, 250);
     width: 300px;
     height: 750px;
     margin: 75px;
+    
 }
 
 .pig {
     float: left;
-    background-color: green;
+    background-color: pink;
     width: 300px;
     height: 750px;
     margin: 75px;
